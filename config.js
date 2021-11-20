@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "❤️ Gửi Thị Hiền",
+    titleWeb: "Gửi Thị Hiền",
     introTitle: 'NGUYỄN THỊ HIỀN',
     introDesc: 'Chúc mày 20-11 vui vẻ, ngày càng chăm chỉ và gặp nhiều may mắn nhé😘',
     btnIntro: '^^Chuyển slide đi m^^',
